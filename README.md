@@ -1,1 +1,1 @@
-This is the README file in the git directory.
+It’s the only time you are allowed to update and commit from GitHub interface.
